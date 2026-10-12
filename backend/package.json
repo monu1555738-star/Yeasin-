@@ -1,0 +1,15 @@
+{
+  "name": "beshell-call-backend",
+  "version": "1.0.0",
+  "description": "Backend infrastructure for B-E-Shell Call: WebSockets real-time chat, WebRTC audio/video signaling, PostgreSQL/MongoDB persistence, and FCM push notifications.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ws": "^8.17.1"
+  }
+}

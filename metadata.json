@@ -1,0 +1,6 @@
+{
+  "name": "BSL CALLING",
+  "description": "Modern calling and messaging app with HD audio & video calls, secure private chat, stories, and contact management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
